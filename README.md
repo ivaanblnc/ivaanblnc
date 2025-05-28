@@ -24,7 +24,7 @@ Here are some of the tools and technologies I use regularly:
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 
 ---
-##Github Stats
+## Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ivaanblnc&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivaanblnc&layout=compact)
